@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d73901fd-c6ce-4797-885c-4d32d3268bbd" name="Changes" comment="prosit num 9 + 10">
-      <change afterPath="$PROJECT_DIR$/src/AffectationHashMap.java" afterDir="false" />
+    <list default="true" id="d73901fd-c6ce-4797-885c-4d32d3268bbd" name="Changes" comment="prosit 11">
+      <change afterPath="$PROJECT_DIR$/src/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Management.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -74,7 +75,7 @@
       <workItem from="1732474662078" duration="1230000" />
       <workItem from="1732478246955" duration="1734000" />
       <workItem from="1732531936840" duration="774000" />
-      <workItem from="1733682219476" duration="636000" />
+      <workItem from="1733682219476" duration="900000" />
     </task>
     <task id="LOCAL-00001" summary="prosit num 9">
       <option name="closed" value="true" />
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733682475086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="prosit 11">
+      <option name="closed" value="true" />
+      <created>1733683030946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733683030946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +130,7 @@
     <MESSAGE value="prosit 9" />
     <MESSAGE value="prosit num 9" />
     <MESSAGE value="prosit num 9 + 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="prosit num 9 + 10" />
+    <MESSAGE value="prosit 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="prosit 11" />
   </component>
 </project>
