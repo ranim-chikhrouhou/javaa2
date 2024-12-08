@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d73901fd-c6ce-4797-885c-4d32d3268bbd" name="Changes" comment="prosit num 9">
+    <list default="true" id="d73901fd-c6ce-4797-885c-4d32d3268bbd" name="Changes" comment="prosit num 9 + 10">
+      <change afterPath="$PROJECT_DIR$/src/AffectationHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +74,7 @@
       <workItem from="1732474662078" duration="1230000" />
       <workItem from="1732478246955" duration="1734000" />
       <workItem from="1732531936840" duration="774000" />
+      <workItem from="1733682219476" duration="636000" />
     </task>
     <task id="LOCAL-00001" summary="prosit num 9">
       <option name="closed" value="true" />
@@ -90,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732479145687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="prosit num 9 + 10">
+      <option name="closed" value="true" />
+      <created>1733682475086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733682475086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prosit 9" />
     <MESSAGE value="prosit num 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="prosit num 9" />
+    <MESSAGE value="prosit num 9 + 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="prosit num 9 + 10" />
   </component>
 </project>
